@@ -1,6 +1,6 @@
 name: Mike Filsaime
 favicon: null
-layout_spectrum: 0.08441850962117314
+layout_spectrum: 0.16003
 typography_spectrum: 0.63811
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#c41229'
     - '#c56995'
   brandStrength: 0.630447459872812
-  lightness: 0.33365315361879766
-  saturation: 0.9381517502479255
-  rhythmicContrast: 0.7411333657801151
+  lightness: 0.1875
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
