@@ -1,7 +1,7 @@
 name: Mike Filsaime
 favicon: null
 layout_spectrum: 0.08441850962117314
-typography_spectrum: 0.6044883274007589
+typography_spectrum: 0.63811
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#e6e6e6'
+    - '#2b719d'
+    - '#c41229'
+    - '#c56995'
   brandStrength: 0.630447459872812
   lightness: 0.33365315361879766
   saturation: 0.9381517502479255
